@@ -4,6 +4,7 @@ A python script to sort/clean up a directory. It basically takes files with thei
 
 #### Usage
 To run this script:
+
 Type this if the directory to be cleaned up does not contain cleanUp.py:
 ```
 python3 cleanUp.py --path <path-to-directory>
