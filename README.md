@@ -5,9 +5,15 @@ A python script to sort/clean up a directory. It basically takes files with thei
 #### Usage
 To run this script:
 Type this if the directory to be cleaned up does not contain cleanUp.py:
-```python3 cleanUp.py --path <path-to-directory>```
+```
+python3 cleanUp.py --path <path-to-directory>
+```
 Otherwise, type:
-```python3 cleanUp.py```
+```
+python3 cleanUp.py
+```
 like any other python file.
 
-  Links
+#### Resources Used
+- This wonderful [article](https://www.freecodecamp.org/news/building-bots/#creating-a-directory-clean-up-script) by Tim Grossmann on automating tasks on freeCodeCamp.org:
+  
