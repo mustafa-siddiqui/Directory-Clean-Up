@@ -15,5 +15,5 @@ python3 cleanUp.py
 like any other python file.
 
 #### Resources Used
-- This wonderful [article](https://www.freecodecamp.org/news/building-bots/#creating-a-directory-clean-up-script) by Tim Grossmann on automating tasks on freeCodeCamp.org:
+- This wonderful [article](https://www.freecodecamp.org/news/building-bots/#creating-a-directory-clean-up-script) by Tim Grossmann on automating tasks on freeCodeCamp.org.
   
